@@ -11,7 +11,7 @@ Software Engineering student at **EFREI Paris**
 
 ### Working on:
 
-[Q-Ready](https://github.com/Rowuni/Q-Ready-Public): Development of post-quantum-ready software for the analysis and migration of cryptographic assets. As the project lead, I organise the team's tasks and manage the security of the codebase, whilst also working as a developer. Public version available [here](https://github.com/Rowuni/Q-Ready-Public)
+[Q-Ready](https://github.com/Rowuni/Q-Ready-Public): Development of post-quantum-ready software for the analysis and migration of cryptographic assets. As a fullstack developer, I worked to achieve a Proof of Concept. Public version available [here](https://github.com/Rowuni/Q-Ready-Public)
 
 ---
 

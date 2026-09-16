@@ -17,7 +17,7 @@ Software Engineering student at **EFREI Paris**
 
 ## 🎓 Education
 
-**EFREI Paris** — Software Engineering - 2027 promotion
+**EFREI Paris** — Software Engineering - 2022-2027 
 
 ---
 

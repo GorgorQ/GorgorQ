@@ -4,7 +4,7 @@ Software Engineering student at **EFREI Paris**
 
 ---
 
-### Worked previously for
+### Worked previously for:  
 
 [**Acquity Software**](https://fr.linkedin.com/company/acquity-software) — *Intern frontend developer*
 
